@@ -1,0 +1,51 @@
+[
+  {
+    "listing": "/databases.html",
+    "items": [
+      "/databases/bioregionalization.html",
+      "/databases/interaction.html",
+      "/databases/organism_distribution.html",
+      "/databases/morphology.html",
+      "/databases/phylogenies.html",
+      "/databases/taxonomy.html",
+      "/databases/trait_databases.html",
+      "/databases/cultural.html",
+      "/databases/geochemistry.html",
+      "/databases/modern_geography.html",
+      "/databases/paleogeography.html",
+      "/databases/stratigraphy.html"
+    ]
+  },
+  {
+    "listing": "/danijela_dimitrijevic.html",
+    "items": [
+      "/posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",
+      "/posts/analpal/2023-03-31_subsample/subsample_counts.html"
+    ]
+  },
+  {
+    "listing": "/team.html",
+    "items": []
+  },
+  {
+    "listing": "/examples.html",
+    "items": [
+      "/posts/analpal/2023-03-31_subsample/subsample_counts.html",
+      "/posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",
+      "/posts/other/post-with-code/index.html",
+      "/posts/other/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/adam_kocsis.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/analpal/2023-03-31_subsample/subsample_counts.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",
+    "items": []
+  }
+]

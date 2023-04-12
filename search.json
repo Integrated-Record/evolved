@@ -1,0 +1,380 @@
+[
+  {
+    "objectID": "databases/stratigraphy.html",
+    "href": "databases/stratigraphy.html",
+    "title": "Stratigraphy",
+    "section": "",
+    "text": "Geological Time Scales\n\n\n3d outcrop data\n\n\nSpatiotemporal stratigraphy\n\nMacrostrat"
+  },
+  {
+    "objectID": "databases/modern_geography.html",
+    "href": "databases/modern_geography.html",
+    "title": "Modern Physical Geography",
+    "section": "",
+    "text": "Natural earth\nETOPO1"
+  },
+  {
+    "objectID": "databases/modern_geography.html#species-distribution-models",
+    "href": "databases/modern_geography.html#species-distribution-models",
+    "title": "Modern Physical Geography",
+    "section": "Species distribution models",
+    "text": "Species distribution models\n\nWorldClim\nBioOracle-2"
+  },
+  {
+    "objectID": "databases/taxonomy.html",
+    "href": "databases/taxonomy.html",
+    "title": "Taxonomy",
+    "section": "",
+    "text": "Organism traits\n\nCoral Traits"
+  },
+  {
+    "objectID": "databases/bioregionalization.html",
+    "href": "databases/bioregionalization.html",
+    "title": "Bioregionalization",
+    "section": "",
+    "text": "Tectonic reconstruction\n\n\nPaleoclimate modelling\n\nBRIDGE stage-level climate reconstructions\nCHELSA\nPaleoclim"
+  },
+  {
+    "objectID": "databases/geochemistry.html",
+    "href": "databases/geochemistry.html",
+    "title": "Geochemistry",
+    "section": "",
+    "text": "Isotope data"
+  },
+  {
+    "objectID": "databases/trait_databases.html",
+    "href": "databases/trait_databases.html",
+    "title": "Trait Databases",
+    "section": "",
+    "text": "Organism traits\n\nCoral Traits\n\n\n\nFossil Buildups\n\nAncient Reef Traits (ART)"
+  },
+  {
+    "objectID": "databases/morphology.html",
+    "href": "databases/morphology.html",
+    "title": "Organism morphology",
+    "section": "",
+    "text": "3d data\n\nMorphobank"
+  },
+  {
+    "objectID": "databases/phylogenies.html",
+    "href": "databases/phylogenies.html",
+    "title": "Phylogenies",
+    "section": "",
+    "text": "3d data\n\nMorphobank"
+  },
+  {
+    "objectID": "databases/organism_distribution.html",
+    "href": "databases/organism_distribution.html",
+    "title": "Organism Distribution Databases",
+    "section": "",
+    "text": "OBIS\nGBIF\n\n\n\n\n\nThe PaleoReefs Database\nPaleobiology Database\nNeptune Sandbox Berlin\n\n\n\n\nSepkoski’s compendium"
+  },
+  {
+    "objectID": "databases/organism_distribution.html#modern-organisms",
+    "href": "databases/organism_distribution.html#modern-organisms",
+    "title": "Organism Distribution Databases",
+    "section": "",
+    "text": "OBIS\nGBIF"
+  },
+  {
+    "objectID": "databases/organism_distribution.html#fossils",
+    "href": "databases/organism_distribution.html#fossils",
+    "title": "Organism Distribution Databases",
+    "section": "",
+    "text": "The PaleoReefs Database\nPaleobiology Database\nNeptune Sandbox Berlin\n\n\n\n\nSepkoski’s compendium"
+  },
+  {
+    "objectID": "databases/interaction.html",
+    "href": "databases/interaction.html",
+    "title": "Interaction data",
+    "section": "",
+    "text": "Biological interaction data"
+  },
+  {
+    "objectID": "databases/paleogeography.html",
+    "href": "databases/paleogeography.html",
+    "title": "Paleogeography",
+    "section": "",
+    "text": "Tectonic reconstruction models\n\nPALEOMAP project\n\n\n\nPaleoclimate modelling\n\nBRIDGE stage-level climate reconstructions\nCHELSA\nPaleoclim"
+  },
+  {
+    "objectID": "databases/registry/ancient_reef_traits.html",
+    "href": "databases/registry/ancient_reef_traits.html",
+    "title": "Ancient Reef Traits",
+    "section": "",
+    "text": "History"
+  },
+  {
+    "objectID": "databases/registry/neptune.html",
+    "href": "databases/registry/neptune.html",
+    "title": "Neptune Sandbox Berlin",
+    "section": "",
+    "text": "history of Neptune"
+  },
+  {
+    "objectID": "databases/registry/pbdb.html",
+    "href": "databases/registry/pbdb.html",
+    "title": "The Paleobiology Database",
+    "section": "",
+    "text": "Examples with the Paleobiology Database"
+  },
+  {
+    "objectID": "databases/registry/pbdb.html#citation-s",
+    "href": "databases/registry/pbdb.html#citation-s",
+    "title": "The Paleobiology Database",
+    "section": "Citation (s)",
+    "text": "Citation (s)\nThe database has no official publication or citation. However it is recommended to acknowledge the Paleobiology Database in your publication, and to get your listed among the official publications of the PBDB."
+  },
+  {
+    "objectID": "databases/registry/pbdb.html#scope",
+    "href": "databases/registry/pbdb.html#scope",
+    "title": "The Paleobiology Database",
+    "section": "Scope",
+    "text": "Scope\n\nDomains\nThe focal domain of the database is the spatiotemporal distribution of fossil taxon observation.\nThe database also provides information on stratigraphy, taxonomy,\n\n\nTemporal\n\n\nSpatial"
+  },
+  {
+    "objectID": "databases/registry/pbdb.html#science",
+    "href": "databases/registry/pbdb.html#science",
+    "title": "The Paleobiology Database",
+    "section": "Science",
+    "text": "Science\n\nOriginal research questions"
+  },
+  {
+    "objectID": "databases/registry/pbdb.html#history",
+    "href": "databases/registry/pbdb.html#history",
+    "title": "The Paleobiology Database",
+    "section": "History",
+    "text": "History\n\nPeople\n\n\nFunding\n\n\nImplementation"
+  },
+  {
+    "objectID": "databases/registry/pbdb.html#technical",
+    "href": "databases/registry/pbdb.html#technical",
+    "title": "The Paleobiology Database",
+    "section": "Technical",
+    "text": "Technical\n\nStructure"
+  },
+  {
+    "objectID": "databases/registry/obis.html",
+    "href": "databases/registry/obis.html",
+    "title": "Ocean Biodiversity Information System",
+    "section": "",
+    "text": "History"
+  },
+  {
+    "objectID": "databases/registry/pared.html",
+    "href": "databases/registry/pared.html",
+    "title": "The PaleoReefs Database",
+    "section": "",
+    "text": "Heading 1\nRandom text\n\n\nHeading 2\nMore text\n\n\nHeading 3\nLorem ipsum"
+  },
+  {
+    "objectID": "databases/cultural.html",
+    "href": "databases/cultural.html",
+    "title": "Cultural and Human Impact",
+    "section": "",
+    "text": "Regionalization data\n\n\nHuman impact"
+  },
+  {
+    "objectID": "databases.html",
+    "href": "databases.html",
+    "title": "Databases",
+    "section": "",
+    "text": "Biological data\n\n\n\n\n\n\n\n\nBioregionalization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInteraction data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrganism Distribution Databases\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrganism morphology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhylogenies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaxonomy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrait Databases\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nGeological / Geographic data\n\n\n\n\n\n\n\n\nCultural and Human Impact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeochemistry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModern Physical Geography\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaleogeography\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStratigraphy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "danijela_dimitrijevic.html",
+    "href": "danijela_dimitrijevic.html",
+    "title": "Danijela Dimitrijevic",
+    "section": "",
+    "text": "Basic diversity dynamics of scleractinian corals with divDyn\n\n\nA basic introduction to the divDyn package\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\n  \n\n\n\n\nUsing count data with the subsample() function of the divDyn package.\n\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Publishing\n\nquarto\nzotero\n\n\nWebsite\n\njekyll\n\n\nThis is the software page\n\nRmarkdown\nmark\nmaxent\nPAST\nSlicer\nGPlates"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evolv-ED",
+    "section": "",
+    "text": "Welcome to Evolv-ED!\n\n\nThis website is an educational hub of research material in the broad field of evolutionary-ecological research including databases and software - and examples to show them in use.\n\n\n\nStart here, if you do not yet know where to go:\n\n Why?! \n\n\nThe EvolvED is a hub of educational material.\nThe website serves as repository of educational material for the Integrated Record of Ancient Life.\n\n\nBasic sitemap:\n\nAbout: learn more about the Evolv-ED, connected projects and the people managing it.\n**"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "The people behind EvolvED",
+    "section": "",
+    "text": "Adam Kocsis\n\n\nDanijela Dimitrijevic\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "examples.html",
+    "href": "examples.html",
+    "title": "Examples",
+    "section": "",
+    "text": "Some introductory text."
+  },
+  {
+    "objectID": "examples.html#analytical-paleobiology",
+    "href": "examples.html#analytical-paleobiology",
+    "title": "Examples",
+    "section": "Analytical Paleobiology",
+    "text": "Analytical Paleobiology\n\n\n\n\n  \n\n\n\n\nUsing count data with the subsample() function of the divDyn package.\n\n\n\n\n\n\n\nsubsampling\n\n\ndiversity\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\n  \n\n\n\n\nBasic diversity dynamics of scleractinian corals with divDyn\n\n\nA basic introduction to the divDyn package\n\n\n\n\ndivDyn\n\n\nPBDB\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "examples.html#other",
+    "href": "examples.html#other",
+    "title": "Examples",
+    "section": "Other",
+    "text": "Other\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\npbdb\n\n\n\n\n\n\n\n\n\n\n\nFeb 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "adam_kocsis.html",
+    "href": "adam_kocsis.html",
+    "title": "Adam Kocsis",
+    "section": "",
+    "text": "subsampling exampleg\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "adam_kocsis.html#list-of-examples-written-by-adam",
+    "href": "adam_kocsis.html#list-of-examples-written-by-adam",
+    "title": "Adam Kocsis",
+    "section": "",
+    "text": "subsampling exampleg\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/R/rgplates.html",
+    "href": "software/R/rgplates.html",
+    "title": "rgplates",
+    "section": "",
+    "text": "This is the page of the rgplates package."
+  },
+  {
+    "objectID": "software/python/pyGPlates.html",
+    "href": "software/python/pyGPlates.html",
+    "title": "pyGPlates",
+    "section": "",
+    "text": "pyGPlates"
+  },
+  {
+    "objectID": "software/R.html",
+    "href": "software/R.html",
+    "title": "The R Project for Statistical Computing",
+    "section": "",
+    "text": "R\n\nR-studio"
+  },
+  {
+    "objectID": "why.html",
+    "href": "why.html",
+    "title": "Why?!",
+    "section": "",
+    "text": "Help with interdisciplinary research"
+  },
+  {
+    "objectID": "why.html#interdisciplinarity",
+    "href": "why.html#interdisciplinarity",
+    "title": "Why?!",
+    "section": "",
+    "text": "Help with interdisciplinary research"
+  },
+  {
+    "objectID": "why.html#the-integrated-record-of-ancient-life",
+    "href": "why.html#the-integrated-record-of-ancient-life",
+    "title": "Why?!",
+    "section": "The Integrated Record of Ancient Life",
+    "text": "The Integrated Record of Ancient Life"
+  },
+  {
+    "objectID": "why.html#education-of-junior-researchers",
+    "href": "why.html#education-of-junior-researchers",
+    "title": "Why?!",
+    "section": "Education of Junior Researchers",
+    "text": "Education of Junior Researchers\n\nThe Analytical Paleobiology Workshop\nGraduate programs such as the Paleobiology Master’s program of the Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  },
+  {
+    "objectID": "posts/analpal/2023-03-31_subsample/subsample_counts.html",
+    "href": "posts/analpal/2023-03-31_subsample/subsample_counts.html",
+    "title": "Using count data with the subsample() function of the divDyn package.",
+    "section": "",
+    "text": "divDyn pbdb iNEXT R\n\nNo matching items\n\n\nAlthough the subsample() function was developed for estimating turnover rates and diversity changes over multiple time intervals, it was adapted to execute subsampling on single samples.\nLet’s say that we have a sample of 20 species, where species have the following number of specimens:\n\n# counts of specimens\ncounts &lt;- c(35,19,13,9,6,4,2,2,2,2,2,2,2,1,1,1,1,1,1,1)\n\n\nPreparing data\nThe current version of divDyn (Kocsis et al. 2019) can only accept extended formats for ecological samples. This means that every specimen (identity) has to be present as a separate object. To make the count data above compatible with subsample(), we can use the rep() funciton from the base package to repeat placeholders (i.e. letters) that symbolize the specimens that belong to different species.\n\n# one letter that represents each species\nspecies &lt;- letters[1:length(counts)]\n\n# extended format of the sample\nspecimens &lt;- rep(species, counts)\n\nRunning the table() function confirms that the structure we created is indeed matching the count data above.\n\ntable(specimens)\n\nspecimens\n a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t \n35 19 13  9  6  4  2  2  2  2  2  2  2  1  1  1  1  1  1  1 \n\n\nTo make the vector of specimens compatible with the subsample() function, we have to make it a data.frame.\n\nsamp &lt;- data.frame(specimens, stringsAsFactors=FALSE)\n\nAs factors are more difficult to work with (unless you intentionally want to), it is easier to write more reliable analyses if you stick with characters.\n\n\nRichness function\nBy default, the subsample() function uses the divDyn() function as the applied procedure in the subsampling loops. We have to override this by another function that calculates diversity (e.g. richness) estimates from the long format of the sample. For richness, it is easiest to write your own function that just counts the number of unique elements in the vector.\n\nrichness &lt;- function(x) length(unique(x))\nrichness(specimens)\n\n[1] 20\n\n\n\n\nSubsampling\nThe important thing to note is, that the argument of this function has to be x. In simple cases where the data.frame which is fed to the subsample function has only one column, this represents a vector of specimens.\nNow, all that remains is to feed our data to the subsampling. By default, subsample will execute classical rarefaction (Sanders 1968).\n\n# Richness subsampled to 10 individuals, number of iterations is 1000\nsubsample(samp, tax=\"specimens\", q=10, FUN=richness, iter=1000, counter=F)\n\n[1] 5.879\n\n\nAs the target quota is quite low, you need to increase the number of iterations to make the estimate stabilize.\nTo run Shareholder Quorum Subsampling (Alroy 2010), you have to specify the type and the q arguments appropriately.\n\n# Richness subsampled to 10 individuals, number of iterations is 1000\nsubsample(samp, tax=\"specimens\", q=0.5, type=\"sqs\", FUN=richness, iter=1000, counter=F)\n\n[1] 3.455\n\n\nYou can contrast this with the analytical solution (coverage-based rarefaction) (Chao and Jost 2012) implemented in the iNEXT-package\n\n# download with install.packages(iNEXT)\nlibrary(iNEXT)\n\n# estimate Hill numbers for 0.5 coverage\nestimateD(counts, base=\"coverage\", level=0.5)\n\n  Assemblage        m      Method Order.q        SC       qD   qD.LCL   qD.UCL\n1       data 5.044756 Rarefaction       0 0.4999992 3.767626 2.730768 4.804484\n2       data 5.044756 Rarefaction       1 0.4999992 3.428733 2.514319 4.343146\n3       data 5.044756 Rarefaction       2 0.4999992 3.060668 2.276833 3.844502\n\n\nValue we are interested in is qD at the order of 0, which is somewhat higher than the solution suggested by SQS, but the offset is really not high, concerning that we are talking about fractions of species. The true advantage of using subsample() is that you can supply any function as FUN and do not have to stick with Hill-numbers.\n\n\nAckowledgements\nThanks to Erin Saupe for asking about the example and indirectly to Seth Finnegan for his original course material.\n\n\n\n\n\n\nReferences\n\nAlroy, John. 2010. “The Shifting Balance of Diversity Among Major Marine Animal Groups.” Science 329: 1191–94. https://doi.org/10.1126/science.1189910.\n\n\nChao, Anne, and Lou Jost. 2012. “Coverage-Based Rarefaction and Extrapolation: Standardizing Samples by Completeness Rather Than Size.” Ecology 93 (12): 2533–47. https://doi.org/10.1890/11-1952.1.\n\n\nKocsis, Ádám T., Carl J. Reddin, John Alroy, and Wolfgang Kiessling. 2019. “The R Package divDyn for Quantifying Diversity Dynamics Using Fossil Sampling Data.” Methods in Ecology and Evolution 10 (5): 735–43. https://doi.org/10.1111/2041-210X.13161.\n\n\nSanders, Howard L. 1968. “Marine Benthic Diversity: A Comparative Study.” The American Naturalist 102 (925): 243–82. http://www.jstor.org/stable/2459027."
+  },
+  {
+    "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",
+    "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",
+    "title": "Basic diversity dynamics of scleractinian corals with divDyn",
+    "section": "",
+    "text": "The purpose of this vignette is to guide new users through data acquisition and analysis, as well as to demonstrate the basic capabilities of the divDyn R (Kocsis et al. 2019) package. This tutorial will use Scleractininan corals as an example group which was selected selected because the due to data quality reasons and as we have readily available additional information about the coral taxa with which to customize the analyses."
+  },
+  {
+    "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#installing-and-loading-divdyn",
+    "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#installing-and-loading-divdyn",
+    "title": "Basic diversity dynamics of scleractinian corals with divDyn",
+    "section": "Installing and loading divDyn",
+    "text": "Installing and loading divDyn\nTo process the stratigraphic information in the downloaded occurrence file, and do the analyses, you have to to install and attach the divDyn package.\nThe package is available from the CRAN repositories and can be installed with the following line of code (you will probably have to select your preferred download mirror).\n\ninstall.packages(\"divDyn\")\n\nAfter the package is installed, it is ready for use, you can attach it with:\n\nlibrary(divDyn)\n\nv0.8.2. See latest changes with 'news(package=\"divDyn\")'. Default: \nTime flows forward with 'bin', and backward with 'age' and 'slice()'.\n\n\n\nAttaching package: 'divDyn'\n\n\nThe following object is masked from 'package:chronosphere':\n\n    matchtime"
+  },
+  {
+    "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#initial-filtering",
+    "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#initial-filtering",
+    "title": "Basic diversity dynamics of scleractinian corals with divDyn",
+    "section": "Initial filtering",
+    "text": "Initial filtering\nThe downloaded dataset needs to be subsetted to represent the order of scleractinian corals.\n\ndat &lt;- dat[dat$order==\"Scleractinia\",]\n\nThe analyses will be conducted at the level of genera.\nThe entries that have no valid genus names in the PaleoDB can be omitted at this stage. They will not provide us any information about the evolution of the group.\n\n# omit non-genus entries\ndat&lt;- dat[!dat$genus==\"\", ]\n\nThe dataset should be cleaned as much as possible at this stage, for didactic purposes and for keeping things simple, this step is skipped in this tutorial."
+  },
+  {
+    "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#stratigraphic-resolution",
+    "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#stratigraphic-resolution",
+    "title": "Basic diversity dynamics of scleractinian corals with divDyn",
+    "section": "Stratigraphic resolution",
+    "text": "Stratigraphic resolution\nEvery colleciton in the the PaleoDB has a user entered 'early_interval' and 'late_interval' field. These are fields are used to place the collection in stratigraphy/geological time. The 'early_interval' collection is mandatory for every entry while the 'late_interval' is only necessary if the taxon does not fit in the interval specified as 'early_interval'. Otherwise the 'late_interval' field is blank (empty quotes: \"\").\nThe divDyn package uses two frequently used, discrete time scales that we use as the finest stratiigraphic resolution of our analyses: the stage level time scale (stages, 95 bins) and the ten million year time scale (tens, 49 bins). These can be attached with the data() function:\n\ndata(stages)\ndata(tens)\n\nThese will be useful for plotting as they contain the age estimates for the intervals, but they are not too useful for finding which interval the 'early_interval' and 'late_interval' fields point to. This can be found in the keys object.\n\ndata(keys)\n\nThis list is designed to be used with the categorize() function of the package, that combines the large number of entries to and replaces them with the name of the group they belong to. This has to be run on both the 'early_interval' and the 'late_interval' fields.\n\n# the 'stg' entries (lookup)\nstgMin &lt;- categorize(dat[ ,\"early_interval\"], keys$stgInt)\nstgMax &lt;- categorize(dat[ ,\"late_interval\"], keys$stgInt)\n\nThe output of this function is either an interval number that corresponds to the stages timescale, -1, indicating that the value was empty quotes, or NA, if the interval is either not in the lookup table or is too broad.\nBecause this scheme is designed for general use, the output of this function is a vector of character values. These have to be demoted to numeric values, otherwise their order would not be correct.\n\n# convert to numeric\n  stgMin &lt;- as.numeric(stgMin)\n  stgMax &lt;- as.numeric(stgMax)\n\nNow these two vectors have to be combined. There are more solutions to solve the problem of stratigraphic uncertainty, but for the sake of simplicity, let’s just omit every occurrence that cannot be assigned to a single stage in the stages timescale. For that, we will create an empty container, check whether an the interval entry for the occurrence satisfies the condition above, and if so, save the interval ID.\n\n# empty container\ndat$stg &lt;- rep(NA, nrow(dat))\n\n# select entries, where\nstgCondition &lt;- c(\n# the early and late interval fields indicate the same stg\n  which(stgMax==stgMin),\n# or the late_intervar field is empty\n  which(stgMax==-1))\n\n# in these entries, use the stg indicated by the early_interval\n  dat$stg[stgCondition] &lt;- stgMin[stgCondition] \n\nNow every occurrence entry either has a single integer number in the stg column, or NA as its interval identifier. Note that the code above cannot be used for Cambrian and Ordovician occurrences due to stratigraphic problems. If you are interested in assigning these to stage-level intervals, we recommend to take a look at the vignette we wrote that describes global marine, Phanerozoic scale analyses:\nhttps://github.com/divDyn/ddPhanero/blob/master/doc/1.0.1/dd_phanero.pdf\nThe assignments can be repeated for the 10-million year bins with the following commands:\n\n# a. categorize interval names to bin numbers\n  # categorize is the new function of the package\n  binMin&lt;-categorize(dat[,\"early_interval\"],keys$binInt)\n  binMax&lt;-categorize(dat[,\"late_interval\"],keys$binInt)\n  # convert to numeric\n  binMin&lt;-as.numeric(binMin)\n  binMax&lt;-as.numeric(binMax)\n# b. resolve max-min interval uncertainty\n# final variable (empty)\n  dat$bin &lt;- rep(NA, nrow(dat))\n# use entries, where\n  binCondition &lt;- c(\n  # the early and late interval fields indicate the same bin\n    which(binMax==binMin),\n  # or the late_interval field is empty\n    which(binMax==-1))\n# in these entries, use the bin indicated by the early_interval\n  dat$bin[binCondition] &lt;- binMin[binCondition]"
+  },
+  {
+    "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#plotting",
+    "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#plotting",
+    "title": "Basic diversity dynamics of scleractinian corals with divDyn",
+    "section": "Plotting",
+    "text": "Plotting\nPlotting these variables is probably better then just looking at the numbers. The package includes a powerful time-scale plotting function that lets you visualize the how time is broken down to discrete intervals. This highly-customizable function is built on the basic plot() function, and most of its arguments are inherited. The following function call will draw plot with in the past 250 million years, with series-level shading and system-level boxes at the bottom:\n\ntsplot(stages, boxes=\"sys\", boxes.col=\"systemCol\", \n    shading=\"series\", xlim=c(250, 0), ylim=c(0,2000))\n\n\n\n\nThe you can draw the number of occurrences with lines(). As the same row indices in the stages object and the result of binstat() indicate values that belong to the same interval, you do not need any subsetting to align the to data.frames.\n\ntsplot(stages, boxes=\"sys\", boxes.col=\"systemCol\", \n  shading=\"series\", xlim=c(250, 0), ylim=c(0,2000), ylab=\"Number occurrences\")\nlines(stages$mid, bs$occs)\n\n\n\n\nWe will mostly use the same basic function call for plotting, and typing all these arguments is time consuming. But we can spare some time, if we defined a wrapper function around the plotting that executes the plotting call the with the same arguments that we want to keep the same, while allowing us to change what we would like to change. This is fairly straightforward with the ... argument that allows you to pass arguments through function calls.\n\ntp &lt;- function(...) tsplot(stages, boxes=\"sys\", boxes.col=\"systemCol\", \n  shading=\"series\", xlim=52:95, ...)\n\nNow, every time you call the newly defined function tp() it will have the same colour, shading and x-interval, while you can change other arguments of the tsplot() function. For instance if you wanted see how the number of collections change over time, you can draw a similar plot as above, with:\n\ntp(ylim=c(0,350), ylab=\"Number of collections\") \n  lines(stages$mid, bs$colls)\n\n\n\n\nThe nicest feature of this function is that you do not have to use the built-in data, you can create your own timescale, as long as you use the same structure as in stages and specify the top and bottom boundaries of the intervals (top and bottom columns).\nIt is not surprising that occurrences and collection numbers have the same overall trajectory. As you can see, the sampling of corals is highly volatile over time, with a couple of marked peaks in the late Triassic, Late Jurassic, mid and Late Creteacoues and the Neogene, that we have to take into consideration in some form, when describing the evolution of the group."
+  },
+  {
+    "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#subsampling",
+    "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#subsampling",
+    "title": "Basic diversity dynamics of scleractinian corals with divDyn",
+    "section": "Subsampling",
+    "text": "Subsampling\nUltimately, all time series of richness suffer from the heterogeneity of sampling in space and time, as well as a number of other factors. For instance, the temporal bias is clear, as there is a high correlation between sampling and richness through time.\n\ncor.test(dd$divRT, bs$occs, method=\"spearman\")\n\nWarning in cor.test.default(dd$divRT, bs$occs, method = \"spearman\"): Cannot\ncompute exact p-value with ties\n\n\n\n    Spearman's rank correlation rho\n\ndata:  dd$divRT and bs$occs\nS = 6167.7, p-value = 0.0007426\nalternative hypothesis: true rho is not equal to 0\nsample estimates:\n      rho \n0.5002229 \n\n\nSubsampling aims at estimating what values the focus variables would take, if sampling were uniform over time. This methodology was developed for richness estimation (in an analytical context first, i.e. algegra and equations and then with Monte Carlo simulations), but can be generalized to other variables. You are invited to check out this generalization in the package Handout that you can access with the\n\nvignette(\"handout\")\n\ncommand.\n\nClassical Rarefaction\nAs all intervals have sampling at least 50 occurrences, let’s start with rarefying every stage to 50 occurrences. You can accomplish this by running:\n\ncr50 &lt;- subsample(dats, tax=\"genus\", bin=\"stg\", \n  q=50, coll=\"collection_no\", duplicates=FALSE, iter=300)\n\nThis function call will run the default Classical Rarefaction method on every interval 300 times, calculate the entire divDyn output matrix in every trial and averages the results. With specifying coll=collection_no and duplicates=FALSE, we instruct the function to treat the multiple occurrences of the same genus in a collection as one. It’s structure is the same as that of divDyn()’s, so you can access the variables the same way.\n\ntp(ylim=c(0,100), ylab=\"Subsampled richness\")   \nlines(stages$mid, cr50$divRT, lwd=2)\n\n\n\n\nThat is a different overall picture. Note the much higher peak in the Cretaceous then before.You can also note the low variation of the series. This is an artifact of using classical rarefaction on the data: as the quota drops the curces get flatter and flatter. This is the primary reason why Shareholder Quorum Subsamping was developed (Alroy, 2010).\n\n\nShareholder Quorum Subsampling (SQS)\nSQS is the algorithmic solution that tries to subsample the data to an equal coverage. Coverage is just frequency of the taxon of total sampling pool, which is desired to be constant in the whole series. The detailed understanding of what SQS is doing and how is unfortunately out of scope of this tutorial, but its detail scan be found in J. Alroy’ paper in Science (Alroy 2010).\nInstead of a quota, SQS requires a quorum, a target coverage. This quorum is dependent on the taxon coverage estimation process used in the algorithm. A too high quorum will result in missing information from the time bin. You can run the basic SQS by running.\n\nsqsDD &lt;- subsample(dats, tax=\"genus\", bin=\"stg\", q=0.5, type=\"sqs\",\n  duplicates=FALSE, coll=\"collection_no\", iter=300)\n\nThen you can plot the results with.\n\ntp(ylim=c(0,100), ylab=\"Subsampled richness (SQS, 0.5)\")    \nlines(stages$mid, sqsDD$divRT, lwd=2)\n\n\n\n\nThis is a much more accurate depiction of diversity but we still do not know much about the diversity trajectory in the Neogene. Luckily there are estimators that are not biased by this effects. Sampled-in-bin diversities (divSIB) are only influenced by sampling within the interval of focus, but they have to be corrected for sampling too. Luckily this is not imporant issue, as there are estimators that are not biased by this effects. Sampled-in-bin diversities (divSIB) are only influenced by sampling within the interval of focus, which we can also calculate with gap analysis of the record (i.e. how many taxa are sampled immediately before and after the focal interval but in it). This metric is known as the Corrected Sampled-In-Bin diversity (divCSIB), which is recommended for general use.\nThe likely trajectory of coral diveristy through time is then:\n\ntp(ylim=c(0,80), ylab=\"Subsampled richness (SQS, 0.5)\") \nlines(stages$mid, sqsDD$divCSIB, lwd=2)\n\n\n\n\nincludes a huge peak in the Cretaceous."
+  },
+  {
+    "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#turnover-rates",
+    "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#turnover-rates",
+    "title": "Basic diversity dynamics of scleractinian corals with divDyn",
+    "section": "Turnover rates",
+    "text": "Turnover rates\nWe can get more information about what guided the taxon’s history through time by looking at the temporal trajectories of turnover. The main divDyn() function output includes turnover these rates. You can plot the per capita extinction and origination rates of Foote (Foote 1999) with the following lines of code:\n\n# turnover rates\ntp(ylim=c(0,1), ylab=\"per capita turnover rates\")   \nlines(stages$mid, dd$extPC, lwd=2, col=\"red\")\nlines(stages$mid, dd$oriPC, lwd=2, col=\"green\")\nlegend(\"topright\", legend=c(\"extinction\", \"origination\"), \n  col=c(\"red\", \"green\"), lwd=2)\n\n\n\n\nNote huge peaks at the ends of the series (origination rates peak at the beginning and extinction rates at the recent end). These are edge effects that are force due to the dataset structure. You can note the effects of the end-Triassic, Pliensbachian-Toarcian and the end-Cretaceous crises on the rates. Subsampling typically has a much lower effect on turnover rates, but it is helpful to validate patterns that you see with the raw data. Although this has has to be assessed in more detail J. Alroy recommended to use Classical Rarefaction for the estimation of turnover rates."
+  },
+  {
+    "objectID": "posts/other/post-with-code/index.html",
+    "href": "posts/other/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/other/welcome/index.html",
+    "href": "posts/other/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "material.html",
+    "href": "material.html",
+    "title": "About the Material on the Evolv-ED",
+    "section": "",
+    "text": "The purpose"
+  }
+]
