@@ -1,0 +1,8 @@
+---
+title: Danijela Dimitrijevic
+listing:
+  contents: posts
+  include:
+    author: Kocsis, Adam
+---
+

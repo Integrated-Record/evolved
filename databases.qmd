@@ -1,0 +1,27 @@
+---
+title: "Databases"
+format:
+  html:
+    toc: true
+title-block-banner: true
+listing:
+- id: "bio"
+  type: grid
+  include: 
+    type: "bio_database"
+- id: "geo"
+  type: grid
+  include: 
+    type: "geo_database"
+---
+
+# Biological data
+::: {#bio}
+:::
+
+# Geological / Geographic data
+::: {#geo}
+:::
+
+
+
