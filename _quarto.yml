@@ -14,10 +14,10 @@ website:
       - text: About
         menu:
           - text: "Why?" 
-            href: software.qmd
+            href: why.qmd
           - href: team.qmd
             text: Contributors 
-          - href: team.qmd
+          - href: material.qmd
             text: "The Material"
       - file: databases.qmd
         text: "Databases"

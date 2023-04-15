@@ -9,8 +9,8 @@ author:
   - name: Kocsis, Adam 
     url: "../../../adam_kocsis.html" 
 categories:
-  - divDyn
-  - PBDB
+  - extinction
+  - origination
 listing:
   id: "resources"
   template: ../../../templates/resources.ejs
