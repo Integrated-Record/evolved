@@ -11,4 +11,4 @@ type: bio_database
 
 ### Fossil Buildups
 
-- [Ancient Reef Traits (ART)](databases/registry/ancient_reef_traits.qmd)
+- [Ancient Reef Traits (ART)](registry/ancient_reef_traits.qmd)

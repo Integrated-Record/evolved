@@ -15,12 +15,12 @@ type: bio_database
 
 ## Fossils
 
-- [The PaleoReefs Database](databases/registry/neptune.qmd)
-- [Paleobiology Database](databases/registry/pbdb.qmd)
-- [Neptune Sandbox Berlin](databases/registry/neptune.qmd)
+- [The PaleoReefs Database](registry/neptune.qmd)
+- [Paleobiology Database](registry/pbdb.qmd)
+- [Neptune Sandbox Berlin](registry/neptune.qmd)
 
 ##### Historic relevance
-- [Sepkoski's compendium](databases/registry/neptune.qmd)
+- [Sepkoski's compendium](registry/neptune.qmd)
 
 
 # Modelling data
