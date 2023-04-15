@@ -221,7 +221,7 @@
     "href": "examples.html#analytical-paleobiology",
     "title": "Examples",
     "section": "Analytical Paleobiology",
-    "text": "Analytical Paleobiology\n\n\n\n\n  \n\n\n\n\nUsing count data with the subsample() function of the divDyn package.\n\n\n\n\n\n\n\nsubsampling\n\n\ndiversity\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\n  \n\n\n\n\nBasic diversity dynamics of scleractinian corals with divDyn\n\n\nA basic introduction to the divDyn package\n\n\n\n\ndivDyn\n\n\nPBDB\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\nNo matching items"
+    "text": "Analytical Paleobiology\n\n\n\n\n  \n\n\n\n\nUsing count data with the subsample() function of the divDyn package.\n\n\n\n\n\n\n\nsubsampling\n\n\ndiversity\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\n  \n\n\n\n\nBasic diversity dynamics of scleractinian corals with divDyn\n\n\nA basic introduction to the divDyn package\n\n\n\n\nextinction\n\n\norigination\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "examples.html#other",
@@ -312,7 +312,7 @@
     "href": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",
     "title": "Basic diversity dynamics of scleractinian corals with divDyn",
     "section": "",
-    "text": "The purpose of this vignette is to guide new users through data acquisition and analysis, as well as to demonstrate the basic capabilities of the divDyn R (Kocsis et al. 2019) package. This tutorial will use Scleractininan corals as an example group which was selected selected because the due to data quality reasons and as we have readily available additional information about the coral taxa with which to customize the analyses."
+    "text": "divDyn pbdb chronosphere R\n\nNo matching items"
   },
   {
     "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html#installing-and-loading-divdyn",
