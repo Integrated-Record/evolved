@@ -259,7 +259,7 @@ div.csl-indent {
   </ul>
 </nav>
     <div class="quarto-margin-footer"><div class="margin-footer-item">
-<p><a href="https://www.evolv-ed.net/"> <img src="../../../../../../images/logo.png" width="100"> </a></p>
+<p><a href="https://www.evolv-ed.net/"> <img src="../../../images/logo.png" width="100"> </a></p>
 </div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -292,7 +292,7 @@ div.csl-indent {
 </header>
 
 <div id="listing-resources" class="quarto-listing quarto-listing-container-custom">
-<p><a href="../../../software/R/geo_paleo/divDyn.html"><span class="badge rounded-pill bg-primary">divDyn</span></a> <a href="../../../databases/pbdb.html"><span class="badge rounded-pill bg-primary">pbdb</span></a> <a href="../../../software/R/eco/iNEXT.html"><span class="badge rounded-pill bg-primary">iNEXT</span></a> <a href="../../../software/R.html"><span class="badge rounded-pill bg-primary">R</span></a></p>
+<p><a href="../../../software/R/geo_paleo/divDyn.html"><span class="badge rounded-pill bg-primary">divDyn</span></a> <a href="../../../software/R/eco/iNEXT.html"><span class="badge rounded-pill bg-primary">iNEXT</span></a> <a href="../../../software/R.html"><span class="badge rounded-pill bg-primary">R</span></a></p>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
@@ -347,7 +347,7 @@ No matching items
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Richness subsampled to 10 individuals, number of iterations is 1000</span></span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="fu">subsample</span>(samp, <span class="at">tax=</span><span class="st">"specimens"</span>, <span class="at">q=</span><span class="dv">10</span>, <span class="at">FUN=</span>richness, <span class="at">iter=</span><span class="dv">1000</span>, <span class="at">counter=</span>F)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 5.879</code></pre>
+<pre><code>[1] 5.88</code></pre>
 </div>
 </div>
 <p>As the target quota is quite low, you need to increase the number of iterations to make the estimate stabilize.</p>
@@ -356,7 +356,7 @@ No matching items
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Richness subsampled to 10 individuals, number of iterations is 1000</span></span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="fu">subsample</span>(samp, <span class="at">tax=</span><span class="st">"specimens"</span>, <span class="at">q=</span><span class="fl">0.5</span>, <span class="at">type=</span><span class="st">"sqs"</span>, <span class="at">FUN=</span>richness, <span class="at">iter=</span><span class="dv">1000</span>, <span class="at">counter=</span>F)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 3.455</code></pre>
+<pre><code>[1] 3.531</code></pre>
 </div>
 </div>
 <p>You can contrast this with the analytical solution (coverage-based rarefaction) <span class="citation" data-cites="chao_coverage-based_2012">(<a href="#ref-chao_coverage-based_2012" role="doc-biblioref">Chao and Jost 2012</a>)</span> implemented in the iNEXT-package</p>
@@ -368,9 +368,9 @@ No matching items
 <span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a><span class="fu">estimateD</span>(counts, <span class="at">base=</span><span class="st">"coverage"</span>, <span class="at">level=</span><span class="fl">0.5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>  Assemblage        m      Method Order.q        SC       qD   qD.LCL   qD.UCL
-1       data 5.044756 Rarefaction       0 0.4999992 3.767626 2.730768 4.804484
-2       data 5.044756 Rarefaction       1 0.4999992 3.428733 2.514319 4.343146
-3       data 5.044756 Rarefaction       2 0.4999992 3.060668 2.276833 3.844502</code></pre>
+1       data 5.044756 Rarefaction       0 0.4999992 3.767626 2.613546 4.921705
+2       data 5.044756 Rarefaction       1 0.4999992 3.428733 2.409730 4.447735
+3       data 5.044756 Rarefaction       2 0.4999992 3.060668 2.185915 3.935420</code></pre>
 </div>
 </div>
 <p>Value we are interested in is <code>qD</code> at the order of <code>0</code>, which is somewhat higher than the solution suggested by SQS, but the offset is really not high, concerning that we are talking about fractions of species. The true advantage of using <code>subsample()</code> is that you can supply any function as <code>FUN</code> and do not have to stick with Hill-numbers.</p>

@@ -67,21 +67,21 @@
     "href": "databases/organism_distribution.html",
     "title": "Organism Distribution Databases",
     "section": "",
-    "text": "OBIS\nGBIF\n\n\n\n\n\nThe PaleoReefs Database\nPaleobiology Database\nNeptune Sandbox Berlin\n\n\n\n\nSepkoski’s compendium"
+    "text": "OBIS\nGBIF\nBioTime\n\n\n\n\n\nThe PaleoReefs Database\nPaleobiology Database\nNeptune Sandbox Berlin\nBioDeepTime\n\n\n\n\nSepkoski’s compendium"
   },
   {
     "objectID": "databases/organism_distribution.html#modern-organisms",
     "href": "databases/organism_distribution.html#modern-organisms",
     "title": "Organism Distribution Databases",
     "section": "",
-    "text": "OBIS\nGBIF"
+    "text": "OBIS\nGBIF\nBioTime"
   },
   {
     "objectID": "databases/organism_distribution.html#fossils",
     "href": "databases/organism_distribution.html#fossils",
     "title": "Organism Distribution Databases",
     "section": "",
-    "text": "The PaleoReefs Database\nPaleobiology Database\nNeptune Sandbox Berlin\n\n\n\n\nSepkoski’s compendium"
+    "text": "The PaleoReefs Database\nPaleobiology Database\nNeptune Sandbox Berlin\nBioDeepTime\n\n\n\n\nSepkoski’s compendium"
   },
   {
     "objectID": "databases/interaction.html",
@@ -105,6 +105,13 @@
     "text": "History"
   },
   {
+    "objectID": "databases/registry/biodeeptime.html",
+    "href": "databases/registry/biodeeptime.html",
+    "title": "BioDeepTime",
+    "section": "",
+    "text": "Heading 1\nRandom text\n\n\nHeading 2\nMore text\n\n\nHeading 3\nLorem ipsum"
+  },
+  {
     "objectID": "databases/registry/neptune.html",
     "href": "databases/registry/neptune.html",
     "title": "Neptune Sandbox Berlin",
@@ -116,7 +123,7 @@
     "href": "databases/registry/pbdb.html",
     "title": "The Paleobiology Database",
     "section": "",
-    "text": "Examples with the Paleobiology Database"
+    "text": "Official website: https://paleobiodb.org\nTaxonomic scope: General\nTemporal scope: Ediacaran - Holocene\nSpatial scope: Global\nSince: 1998\nLicense: CC BY 4.0"
   },
   {
     "objectID": "databases/registry/pbdb.html#citation-s",
@@ -152,6 +159,13 @@
     "title": "The Paleobiology Database",
     "section": "Technical",
     "text": "Technical\n\nStructure"
+  },
+  {
+    "objectID": "databases/registry/pbdb.html#examples",
+    "href": "databases/registry/pbdb.html#examples",
+    "title": "The Paleobiology Database",
+    "section": "Examples",
+    "text": "Examples\n\n\n\n\n  \n\n\n\n\nBasic diversity dynamics of scleractinian corals with divDyn\n\n\nA basic introduction to the divDyn package\n\n\n\n\nextinction\n\n\norigination\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "databases/registry/obis.html",
@@ -252,6 +266,48 @@
     "text": "subsampling exampleg\n\n\n\nNo matching items"
   },
   {
+    "objectID": "software/julia.html",
+    "href": "software/julia.html",
+    "title": "Julia",
+    "section": "",
+    "text": "header\nI am not sure, hopefully it works"
+  },
+  {
+    "objectID": "software/R/spatial/icosa.html",
+    "href": "software/R/spatial/icosa.html",
+    "title": "icosa",
+    "section": "",
+    "text": "THis is icosa"
+  },
+  {
+    "objectID": "software/R/eco/iNEXT.html",
+    "href": "software/R/eco/iNEXT.html",
+    "title": "iNEXT",
+    "section": "",
+    "text": "Kocsis, Adam\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/R/eco/iNEXT.html#examples",
+    "href": "software/R/eco/iNEXT.html#examples",
+    "title": "iNEXT",
+    "section": "",
+    "text": "Kocsis, Adam\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/R/geo_paleo/divDyn.html",
+    "href": "software/R/geo_paleo/divDyn.html",
+    "title": "divDyn",
+    "section": "",
+    "text": "Kocsis, Adam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/R/geo_paleo/divDyn.html#examples",
+    "href": "software/R/geo_paleo/divDyn.html#examples",
+    "title": "divDyn",
+    "section": "",
+    "text": "Kocsis, Adam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKocsis, Adam\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "software/R/rgplates.html",
     "href": "software/R/rgplates.html",
     "title": "rgplates",
@@ -305,7 +361,7 @@
     "href": "posts/analpal/2023-03-31_subsample/subsample_counts.html",
     "title": "Using count data with the subsample() function of the divDyn package.",
     "section": "",
-    "text": "divDyn pbdb iNEXT R\n\nNo matching items\n\n\nAlthough the subsample() function was developed for estimating turnover rates and diversity changes over multiple time intervals, it was adapted to execute subsampling on single samples.\nLet’s say that we have a sample of 20 species, where species have the following number of specimens:\n\n# counts of specimens\ncounts &lt;- c(35,19,13,9,6,4,2,2,2,2,2,2,2,1,1,1,1,1,1,1)\n\n\nPreparing data\nThe current version of divDyn (Kocsis et al. 2019) can only accept extended formats for ecological samples. This means that every specimen (identity) has to be present as a separate object. To make the count data above compatible with subsample(), we can use the rep() funciton from the base package to repeat placeholders (i.e. letters) that symbolize the specimens that belong to different species.\n\n# one letter that represents each species\nspecies &lt;- letters[1:length(counts)]\n\n# extended format of the sample\nspecimens &lt;- rep(species, counts)\n\nRunning the table() function confirms that the structure we created is indeed matching the count data above.\n\ntable(specimens)\n\nspecimens\n a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t \n35 19 13  9  6  4  2  2  2  2  2  2  2  1  1  1  1  1  1  1 \n\n\nTo make the vector of specimens compatible with the subsample() function, we have to make it a data.frame.\n\nsamp &lt;- data.frame(specimens, stringsAsFactors=FALSE)\n\nAs factors are more difficult to work with (unless you intentionally want to), it is easier to write more reliable analyses if you stick with characters.\n\n\nRichness function\nBy default, the subsample() function uses the divDyn() function as the applied procedure in the subsampling loops. We have to override this by another function that calculates diversity (e.g. richness) estimates from the long format of the sample. For richness, it is easiest to write your own function that just counts the number of unique elements in the vector.\n\nrichness &lt;- function(x) length(unique(x))\nrichness(specimens)\n\n[1] 20\n\n\n\n\nSubsampling\nThe important thing to note is, that the argument of this function has to be x. In simple cases where the data.frame which is fed to the subsample function has only one column, this represents a vector of specimens.\nNow, all that remains is to feed our data to the subsampling. By default, subsample will execute classical rarefaction (Sanders 1968).\n\n# Richness subsampled to 10 individuals, number of iterations is 1000\nsubsample(samp, tax=\"specimens\", q=10, FUN=richness, iter=1000, counter=F)\n\n[1] 5.879\n\n\nAs the target quota is quite low, you need to increase the number of iterations to make the estimate stabilize.\nTo run Shareholder Quorum Subsampling (Alroy 2010), you have to specify the type and the q arguments appropriately.\n\n# Richness subsampled to 10 individuals, number of iterations is 1000\nsubsample(samp, tax=\"specimens\", q=0.5, type=\"sqs\", FUN=richness, iter=1000, counter=F)\n\n[1] 3.455\n\n\nYou can contrast this with the analytical solution (coverage-based rarefaction) (Chao and Jost 2012) implemented in the iNEXT-package\n\n# download with install.packages(iNEXT)\nlibrary(iNEXT)\n\n# estimate Hill numbers for 0.5 coverage\nestimateD(counts, base=\"coverage\", level=0.5)\n\n  Assemblage        m      Method Order.q        SC       qD   qD.LCL   qD.UCL\n1       data 5.044756 Rarefaction       0 0.4999992 3.767626 2.730768 4.804484\n2       data 5.044756 Rarefaction       1 0.4999992 3.428733 2.514319 4.343146\n3       data 5.044756 Rarefaction       2 0.4999992 3.060668 2.276833 3.844502\n\n\nValue we are interested in is qD at the order of 0, which is somewhat higher than the solution suggested by SQS, but the offset is really not high, concerning that we are talking about fractions of species. The true advantage of using subsample() is that you can supply any function as FUN and do not have to stick with Hill-numbers.\n\n\nAckowledgements\nThanks to Erin Saupe for asking about the example and indirectly to Seth Finnegan for his original course material.\n\n\n\n\n\n\nReferences\n\nAlroy, John. 2010. “The Shifting Balance of Diversity Among Major Marine Animal Groups.” Science 329: 1191–94. https://doi.org/10.1126/science.1189910.\n\n\nChao, Anne, and Lou Jost. 2012. “Coverage-Based Rarefaction and Extrapolation: Standardizing Samples by Completeness Rather Than Size.” Ecology 93 (12): 2533–47. https://doi.org/10.1890/11-1952.1.\n\n\nKocsis, Ádám T., Carl J. Reddin, John Alroy, and Wolfgang Kiessling. 2019. “The R Package divDyn for Quantifying Diversity Dynamics Using Fossil Sampling Data.” Methods in Ecology and Evolution 10 (5): 735–43. https://doi.org/10.1111/2041-210X.13161.\n\n\nSanders, Howard L. 1968. “Marine Benthic Diversity: A Comparative Study.” The American Naturalist 102 (925): 243–82. http://www.jstor.org/stable/2459027."
+    "text": "divDyn iNEXT R\n\nNo matching items\n\n\nAlthough the subsample() function was developed for estimating turnover rates and diversity changes over multiple time intervals, it was adapted to execute subsampling on single samples.\nLet’s say that we have a sample of 20 species, where species have the following number of specimens:\n\n# counts of specimens\ncounts &lt;- c(35,19,13,9,6,4,2,2,2,2,2,2,2,1,1,1,1,1,1,1)\n\n\nPreparing data\nThe current version of divDyn (Kocsis et al. 2019) can only accept extended formats for ecological samples. This means that every specimen (identity) has to be present as a separate object. To make the count data above compatible with subsample(), we can use the rep() funciton from the base package to repeat placeholders (i.e. letters) that symbolize the specimens that belong to different species.\n\n# one letter that represents each species\nspecies &lt;- letters[1:length(counts)]\n\n# extended format of the sample\nspecimens &lt;- rep(species, counts)\n\nRunning the table() function confirms that the structure we created is indeed matching the count data above.\n\ntable(specimens)\n\nspecimens\n a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t \n35 19 13  9  6  4  2  2  2  2  2  2  2  1  1  1  1  1  1  1 \n\n\nTo make the vector of specimens compatible with the subsample() function, we have to make it a data.frame.\n\nsamp &lt;- data.frame(specimens, stringsAsFactors=FALSE)\n\nAs factors are more difficult to work with (unless you intentionally want to), it is easier to write more reliable analyses if you stick with characters.\n\n\nRichness function\nBy default, the subsample() function uses the divDyn() function as the applied procedure in the subsampling loops. We have to override this by another function that calculates diversity (e.g. richness) estimates from the long format of the sample. For richness, it is easiest to write your own function that just counts the number of unique elements in the vector.\n\nrichness &lt;- function(x) length(unique(x))\nrichness(specimens)\n\n[1] 20\n\n\n\n\nSubsampling\nThe important thing to note is, that the argument of this function has to be x. In simple cases where the data.frame which is fed to the subsample function has only one column, this represents a vector of specimens.\nNow, all that remains is to feed our data to the subsampling. By default, subsample will execute classical rarefaction (Sanders 1968).\n\n# Richness subsampled to 10 individuals, number of iterations is 1000\nsubsample(samp, tax=\"specimens\", q=10, FUN=richness, iter=1000, counter=F)\n\n[1] 5.88\n\n\nAs the target quota is quite low, you need to increase the number of iterations to make the estimate stabilize.\nTo run Shareholder Quorum Subsampling (Alroy 2010), you have to specify the type and the q arguments appropriately.\n\n# Richness subsampled to 10 individuals, number of iterations is 1000\nsubsample(samp, tax=\"specimens\", q=0.5, type=\"sqs\", FUN=richness, iter=1000, counter=F)\n\n[1] 3.531\n\n\nYou can contrast this with the analytical solution (coverage-based rarefaction) (Chao and Jost 2012) implemented in the iNEXT-package\n\n# download with install.packages(iNEXT)\nlibrary(iNEXT)\n\n# estimate Hill numbers for 0.5 coverage\nestimateD(counts, base=\"coverage\", level=0.5)\n\n  Assemblage        m      Method Order.q        SC       qD   qD.LCL   qD.UCL\n1       data 5.044756 Rarefaction       0 0.4999992 3.767626 2.613546 4.921705\n2       data 5.044756 Rarefaction       1 0.4999992 3.428733 2.409730 4.447735\n3       data 5.044756 Rarefaction       2 0.4999992 3.060668 2.185915 3.935420\n\n\nValue we are interested in is qD at the order of 0, which is somewhat higher than the solution suggested by SQS, but the offset is really not high, concerning that we are talking about fractions of species. The true advantage of using subsample() is that you can supply any function as FUN and do not have to stick with Hill-numbers.\n\n\nAckowledgements\nThanks to Erin Saupe for asking about the example and indirectly to Seth Finnegan for his original course material.\n\n\n\n\n\n\nReferences\n\nAlroy, John. 2010. “The Shifting Balance of Diversity Among Major Marine Animal Groups.” Science 329: 1191–94. https://doi.org/10.1126/science.1189910.\n\n\nChao, Anne, and Lou Jost. 2012. “Coverage-Based Rarefaction and Extrapolation: Standardizing Samples by Completeness Rather Than Size.” Ecology 93 (12): 2533–47. https://doi.org/10.1890/11-1952.1.\n\n\nKocsis, Ádám T., Carl J. Reddin, John Alroy, and Wolfgang Kiessling. 2019. “The R Package divDyn for Quantifying Diversity Dynamics Using Fossil Sampling Data.” Methods in Ecology and Evolution 10 (5): 735–43. https://doi.org/10.1111/2041-210X.13161.\n\n\nSanders, Howard L. 1968. “Marine Benthic Diversity: A Comparative Study.” The American Naturalist 102 (925): 243–82. http://www.jstor.org/stable/2459027."
   },
   {
     "objectID": "posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",

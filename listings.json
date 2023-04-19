@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/databases/registry/pbdb.html",
+    "items": [
+      "/posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html"
+    ]
+  },
+  {
     "listing": "/databases.html",
     "items": [
       "/databases/bioregionalization.html",
@@ -39,6 +45,19 @@
   {
     "listing": "/adam_kocsis.html",
     "items": []
+  },
+  {
+    "listing": "/software/R/eco/iNEXT.html",
+    "items": [
+      "/posts/analpal/2023-03-31_subsample/subsample_counts.html"
+    ]
+  },
+  {
+    "listing": "/software/R/geo_paleo/divDyn.html",
+    "items": [
+      "/posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html",
+      "/posts/analpal/2023-03-31_subsample/subsample_counts.html"
+    ]
   },
   {
     "listing": "/posts/analpal/2023-03-31_subsample/subsample_counts.html",
