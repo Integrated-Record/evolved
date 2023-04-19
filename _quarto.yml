@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Evolv-ED "
-  site-url: "https://integrated-record.github.io/evolved/"
+  site-url: "https://www.evolv-ed.net/"
   navbar:
     logo: "/images/logo.png"
     search: true
@@ -132,8 +132,10 @@ website:
 format:
   html:
     theme:
-    - united 
+    - zephyr
     - custom.scss
     css: styles.css
 
 
+resources:
+ - CNAME
