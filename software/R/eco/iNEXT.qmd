@@ -1,4 +1,16 @@
 ---
 title: iNEXT
 subtitle: Interpolation and Extrapolation for Species Diversity
+listing:
+  id: "using"
+  type: grid
+  contents: /../../../posts
+  include:
+    resources: iNEXT
 ---
+
+## Examples 
+
+
+::: {#using}
+:::

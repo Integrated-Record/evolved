@@ -1,4 +1,15 @@
 ---
 title: divDyn
 subtitle: Diversity Dynamics using Fossil Sampling Data
+listing:
+  id: "using"
+  type: grid
+  contents: /../../../posts
+  include:
+    resources: divDyn 
 ---
+
+## Examples 
+
+::: {#using}
+:::

@@ -1,15 +1,34 @@
 ---
-title: The Paleobiology Database
+title: The Paleobiology Database 
+logo: "https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fpaleobiodb.org%2Fbuild%2Flogos%2Fpbdb_color.png"
+details:
+  link: "https://paleobiodb.org"
+  license: "CC BY 4.0"
+  acronym: "PBDB"
+  taxonomy: "General"
+  time: "Ediacaran - Holocene"
+  space: "Global"
+# Technical metadata
 toc: true
+margin-footer: <img src="{{< meta logo >}}" width="100"> 
+listing:
+  id: "using"
+  contents: /../../posts
+  categories: true
+  include:
+    resources: pbdb
 --- 
 
-[Examples with the Paleobiology Database](../examples.html#category=pbdb)
+<img src="{{< meta logo >}}" height="200" align="right">
+	
+**Official website:** [{{< meta details.link >}}]({{< meta details.link >}})  
+**Taxonomic scope:** {{< meta details.taxonomy >}}  
+**Temporal scope:** {{< meta details.time >}}  
+**Spatial scope:** {{< meta details.space >}}  
+**Since:** 1998  
+**License:** {{< meta details.license >}}
 
-- acronyms
-- logo
-- official link
-- data license
-- since
+
 
 ## Citation (s)
 
@@ -41,3 +60,9 @@ The database also provides information on stratigraphy, taxonomy,
 ## Technical
 
 #### Structure
+
+## Examples 
+
+
+::: {#using}
+:::

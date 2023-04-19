@@ -7,7 +7,4 @@ freeze: true
 # Enable banner style title blocks
 # title-block-banner: true
 
-margin-footer: |
-  <a href='https://www.evolv-ed.net/'>
-  <img src="/images/logo.png" width="100">
-  </a>
+toc: true

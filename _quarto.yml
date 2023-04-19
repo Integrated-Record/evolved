@@ -53,6 +53,9 @@ website:
           contents:
           - href: "databases/organism_distribution.qmd"
             text: "Organism Distribution"
+            contents:
+              - href: "databases/registry/pbdb.qmd"
+                text: "Paleobiology Database"
           - href: "databases/taxonomy.qmd"
             text: "Taxonomy"
           - href: "databases/trait_databases.qmd"
@@ -75,39 +78,51 @@ website:
             text: "Stratigraphy"
           - href: "databases/cultural.qmd"
             text: "Anthropogenic"
-
     - title: "Software"
       style: "docked"
-      collapse-level: 2
+      collapse-level: 3
       contents:
         - file: software.qmd
           text: "**Software**"
-        - section: R
-          file: software/R.qmd
-          contents:
-          - section: Ecology 
-            contents:
-            - file: software/R/eco/iNEXT.qmd
-              text: iNEXT
-          - section: Geology/Paleontology
-            contents:
-            - file: software/R/geo_paleo/divDyn.qmd
-              text: divDyn
-            - file: software/R/geo_paleo/chronosphere.qmd
-              text: chronosphere
-        - section: Python 
-          file: software/python.Rqmd
-          contents:
-          - section: Geology/Paleontology
-            contents:
-            - file: software/python/pyGPlates.qmd
-              text: pyGPlates
         - section: Publishing Tools
           file: software/R.qmd
+        - section: Programming 
+          contents:
+          - section: R
+            file: software/R.qmd
+            contents:
+            - section: Ecology 
+              contents:
+              - file: software/R/eco/iNEXT.qmd
+                text: iNEXT
+            - section: Geology/Paleontology
+              contents:
+              - file: software/R/geo_paleo/divDyn.qmd
+                text: divDyn
+              - file: software/R/geo_paleo/chronosphere.qmd
+                text: chronosphere
+            - section: Spatial 
+              contents:
+              - file: software/R/spatial/icosa.qmd
+                text: icosa
+          - section: Python 
+            file: software/python.qmd
+            contents:
+            - section: Geology/Paleontology
+              contents:
+              - file: software/python/pyGPlates.qmd
+                text: pyGPlates
         - section: Ecology Apps
           file: software/R.qmd
+          contents:
+          - file: software/maxent.qmd
+            text: Maxent
         - section: Geology Apps
           file: software/R.qmd
+          contents:
+          - file: software/gplates.qmd
+            text: GPlates
+            
     - title: "Practice"
       style: "docked"
       collapse-level: 2

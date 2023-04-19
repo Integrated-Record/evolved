@@ -11,6 +11,11 @@ author:
 categories:
   - extinction
   - origination
+resources:
+- R
+- divDyn
+- pbdb
+- chronosphere
 listing:
   id: "resources"
   template: ../../../templates/resources.ejs
@@ -522,12 +527,3 @@ points(stages$mid[rs$ext[!groupSelector]], zDD$extPC[rs$ext[!groupSelector]],
 Note that despite the apparently higher extinction rates of Z corals, the difference in the end-Createcous mass extinction is not supported by the method. The end-Pleistocene value is likely a result of the data treatmen around the recent, but the observed difference in the late Jurassic was not significant in our prevoius study [@kiessling_biodiversity_2015]. This points to the importance of using clean data, and importance of the quick reproduction/reanalysis that the divDyn package now provides.
 
 
-# References
-
-Alroy, J. (2010). The Shifting Balance of Diversity Among Major Marine Animal Groups. Science, 329, 1191–1194. https://doi.org/10.1126/science.1189910
-
-Foote, M. (1999). Morphological Diversity In The Evolutionary Radiation Of Paleozoic and Post-Paleozoic Crinoids. Paleobiology, 25(S2), 1–115.
-
-Kiessling, W., & Kocsis, A. T. (2015). Biodiversity dynamics and environmental occupancy of fossil azooxanthellate and zooxanthellate scleractinian corals. Paleobiology, 41(3), 402–414.
-
-Sepkoski Jr, J. J. (2002). A compendium of fossil marine animal genera. Bulletins of American Paleontology, 363, 1-560.

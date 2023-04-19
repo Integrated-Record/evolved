@@ -2,7 +2,7 @@
   path: "/software/R/geo_paleo/divDyn.html"
   type: software
 - title: pbdb
-  path: "/databases/pbdb.html"
+  path: "/databases/registry/pbdb.html"
   type: database
 - title: chronosphere
   path: "/software/R/geo_paleo/chronosphere.html"

@@ -10,13 +10,17 @@ toc: true
 categories: 
 - subsampling
 - diversity
+resources:
+- R
+- divDyn
+- iNEXT
 listing:
   id: "resources"
   template: ../../../templates/resources.ejs
   contents: 
   - ../../../data/resources.yml
   include:
-    title: "{R,divDyn,pbdb,iNEXT}*" 
+    title: "{R,divDyn,iNEXT}*" 
 ---
 
 ::: {#resources}

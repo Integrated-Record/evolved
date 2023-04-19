@@ -1,5 +1,7 @@
 ---
 title: The R Project for Statistical Computing
+toc: true
+margin-header: <img src="https://www.r-project.org/Rlogo.png" width="150">
 ---
 
 # R 

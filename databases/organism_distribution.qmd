@@ -8,16 +8,17 @@ type: bio_database
 
 # Observation data
 
-
 ## Modern Organisms
 - OBIS
 - GBIF
+- BioTime
 
 ## Fossils
 
 - [The PaleoReefs Database](registry/neptune.qmd)
 - [Paleobiology Database](registry/pbdb.qmd)
 - [Neptune Sandbox Berlin](registry/neptune.qmd)
+- [BioDeepTime](registry/biodeeptime.qmd)
 
 ##### Historic relevance
 - [Sepkoski's compendium](registry/neptune.qmd)

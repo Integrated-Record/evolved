@@ -1,0 +1,9 @@
+---
+title: icosa 
+subtitle: Triangular and Penta-Hexagonal Grids Based on Tessellated Icosahedra   
+margin-header: <img src="https://adamkocsis.github.io/icosa/logo.png" width="150">
+---
+
+
+
+# THis is icosa
