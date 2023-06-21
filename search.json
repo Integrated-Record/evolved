@@ -298,7 +298,21 @@
     "href": "databases/registry/biodeeptime.html",
     "title": "BioDeepTime",
     "section": "",
-    "text": "Heading 1\nRandom text\n\n\nHeading 2\nMore text\n\n\nHeading 3\nLorem ipsum"
+    "text": "Official website: https://biodeeptime.github.io\nTaxonomy: General\nTime: Ordovician - Present-day\nSpace: Global\nSince: 2022\nLicense: CC BY 4.0"
+  },
+  {
+    "objectID": "databases/registry/biodeeptime.html#citation",
+    "href": "databases/registry/biodeeptime.html#citation",
+    "title": "BioDeepTime",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "databases/registry/biodeeptime.html#scope",
+    "href": "databases/registry/biodeeptime.html#scope",
+    "title": "BioDeepTime",
+    "section": "Scope",
+    "text": "Scope\n\nDomains\nThe focal domain of the database is the spatiotemporal distribution of fossil taxon observation.\nThe database also provides information on stratigraphy, taxonomy,\n\n\nTemporal\n\n\nSpatial"
   },
   {
     "objectID": "databases/registry/neptune.html",

@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,12 +60,43 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-using .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-using'] = new List('listing-using', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -103,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../databases.html" rel="" target="">
+    <a class="nav-link active" href="../../databases.html" rel="" target="" aria-current="page">
  <span class="menu-text">Databases</span></a>
   </li>  
   <li class="nav-item">
@@ -155,22 +188,154 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../databases/organism_distribution.html">Biology</a></li><li class="breadcrumb-item"><a href="../../databases/organism_distribution.html">Organism Distribution</a></li><li class="breadcrumb-item"><a href="../../databases/registry/biodeeptime.html">BioDeeptime</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><strong>Databases</strong></span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Biology</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../../databases/organism_distribution.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Organism Distribution</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/registry/pbdb.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Paleobiology Database</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/registry/biodeeptime.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">BioDeeptime</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/taxonomy.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Taxonomy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/trait_databases.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Traits</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/morphology.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Organism morphology</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/phylogenies.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Phylogenies</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/interaction.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Biotic Interaction</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/bioregionalization.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bioregionalization</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Geology/Geography</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/paleogeography.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Paleogeography</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/modern_geography.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Modern Geography</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/stratigraphy.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Stratigraphy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../databases/cultural.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Anthropogenic</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#heading-1" id="toc-heading-1" class="nav-link active" data-scroll-target="#heading-1">Heading 1</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link active" data-scroll-target="#citation">Citation</a></li>
+  <li><a href="#scope" id="toc-scope" class="nav-link" data-scroll-target="#scope">Scope</a></li>
+  <li><a href="#scientific-focus" id="toc-scientific-focus" class="nav-link" data-scroll-target="#scientific-focus">Scientific focus</a></li>
   <li><a href="#heading-2" id="toc-heading-2" class="nav-link" data-scroll-target="#heading-2">Heading 2</a></li>
   <li><a href="#heading-3" id="toc-heading-3" class="nav-link" data-scroll-target="#heading-3">Heading 3</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div><div class="quarto-margin-footer"><div class="margin-footer-item">
+<p><img src="https://biodeeptime.github.io/images/logo.png" width="100"></p>
+</div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -191,8 +356,32 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="heading-1" class="level1">
-<h1>Heading 1</h1>
+<p><img src="https://biodeeptime.github.io/images/logo.png" height="150" align="right"></p>
+<p><strong>Official website:</strong> <a href="https://biodeeptime.github.io">https://biodeeptime.github.io</a><br>
+<strong>Taxonomy:</strong> General<br>
+<strong>Time:</strong> Ordovician - Present-day<br>
+<strong>Space:</strong> Global<br>
+<strong>Since:</strong> 2022<br>
+<strong>License:</strong> CC BY 4.0</p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+</section>
+<section id="scope" class="level2">
+<h2 class="anchored" data-anchor-id="scope">Scope</h2>
+<section id="domains" class="level4">
+<h4 class="anchored" data-anchor-id="domains">Domains</h4>
+<p>The focal domain of the database is the spatiotemporal distribution of fossil taxon observation.</p>
+<p>The database also provides information on stratigraphy, taxonomy,</p>
+</section>
+<section id="temporal" class="level4">
+<h4 class="anchored" data-anchor-id="temporal">Temporal</h4>
+</section>
+<section id="spatial" class="level4">
+<h4 class="anchored" data-anchor-id="spatial">Spatial</h4>
+</section>
+</section>
+<section id="scientific-focus" class="level1">
+<h1>Scientific focus</h1>
 <p>Random text</p>
 </section>
 <section id="heading-2" class="level1">
@@ -204,9 +393,17 @@ ul.task-list li input[type="checkbox"] {
 <p>Lorem ipsum</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-using">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
